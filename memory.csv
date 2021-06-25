@@ -1,0 +1,485 @@
+"","cat","test","tests"
+"1","Rem. parcial","Trial 1",1.06346998361476
+"2","Rem. clinica","Trial 1",-0.909343899032907
+"3","Rem. clinica","Trial 1",0.0770630422909243
+"4","Control","Trial 1",0.0770630422909243
+"5","Control","Trial 1",1.06346998361476
+"6","Rem. clinica","Trial 1",1.06346998361476
+"7","Rem. parcial","Trial 1",-0.416140428370991
+"8","Control","Trial 1",-0.416140428370991
+"9","Rem. parcial","Trial 1",-0.416140428370991
+"10","Rem. clinica","Trial 1",0.0770630422909243
+"11","Rem. parcial","Trial 1",-1.40254736969482
+"12","Control","Trial 1",-0.416140428370991
+"13","Rem. parcial","Trial 1",0.57026651295284
+"14","Rem. clinica","Trial 1",2.04987692493859
+"15","Rem. clinica","Trial 1",2.04987692493859
+"16","Rem. clinica","Trial 1",0.0770630422909243
+"17","Control","Trial 1",1.06346998361476
+"18","Rem. parcial","Trial 1",1.55667345427667
+"19","Rem. clinica","Trial 1",1.06346998361476
+"20","Rem. clinica","Trial 1",0.0770630422909243
+"21","Control","Trial 1",1.55667345427667
+"22","Control","Trial 1",1.55667345427667
+"23","Rem. clinica","Trial 1",-1.89575084035674
+"24","Rem. clinica","Trial 1",-0.416140428370991
+"25","Rem. clinica","Trial 1",-1.40254736969482
+"26","Rem. clinica","Trial 1",-0.909343899032907
+"27","Control","Trial 1",-0.416140428370991
+"28","Control","Trial 1",3.03628386626242
+"29","Rem. clinica","Trial 1",-0.416140428370991
+"30","Control","Trial 1",1.55667345427667
+"31","Rem. clinica","Trial 1",-0.416140428370991
+"32","Control","Trial 1",2.04987692493859
+"33","Rem. clinica","Trial 1",-0.416140428370991
+"34","Control","Trial 1",-0.416140428370991
+"35","Control","Trial 1",2.04987692493859
+"36","Control","Trial 1",0.57026651295284
+"37","Rem. clinica","Trial 1",-0.416140428370991
+"38","Control","Trial 1",0.57026651295284
+"39","Rem. clinica","Trial 1",-0.416140428370991
+"40","Rem. clinica","Trial 1",-1.40254736969482
+"41","Rem. clinica","Trial 1",0.57026651295284
+"42","Rem. parcial","Trial 1",-1.40254736969482
+"43","Rem. parcial","Trial 1",0.0770630422909243
+"44","Rem. clinica","Trial 1",-0.416140428370991
+"45","Rem. clinica","Trial 1",0.57026651295284
+"46","Rem. clinica","Trial 1",-0.416140428370991
+"47","Rem. parcial","Trial 1",-0.416140428370991
+"48","Rem. clinica","Trial 1",-0.416140428370991
+"49","Rem. parcial","Trial 1",0.57026651295284
+"50","Rem. parcial","Trial 1",0.0770630422909243
+"51","Control","Trial 1",-0.909343899032907
+"52","Rem. clinica","Trial 1",1.06346998361476
+"53","Rem. parcial","Trial 1",-1.89575084035674
+"54","Rem. clinica","Trial 1",-1.40254736969482
+"55","Rem. clinica","Trial 1",-0.909343899032907
+"56","Rem. clinica","Trial 1",-0.909343899032907
+"57","Control","Trial 1",0.0770630422909243
+"58","Control","Trial 1",1.55667345427667
+"59","Rem. clinica","Trial 1",-0.909343899032907
+"60","Rem. clinica","Trial 1",-1.89575084035674
+"61","Rem. clinica","Trial 1",-0.909343899032907
+"62","Rem. parcial","Trial 1",-0.416140428370991
+"63","Rem. clinica","Trial 1",1.06346998361476
+"64","Rem. clinica","Trial 1",-0.416140428370991
+"65","Rem. clinica","Trial 1",-1.40254736969482
+"66","Rem. clinica","Trial 1",-0.416140428370991
+"67","Control","Trial 1",1.06346998361476
+"68","Rem. parcial","Trial 1",0.57026651295284
+"69","Rem. parcial","Trial 1",-0.416140428370991
+"70","Rem. parcial","Trial 1",1.06346998361476
+"71","Rem. clinica","Trial 1",-0.909343899032907
+"72","Rem. parcial","Trial 1",0.0770630422909243
+"73","Rem. parcial","Trial 1",-0.909343899032907
+"74","Control","Trial 1",0.0770630422909243
+"75","Control","Trial 1",0.0770630422909243
+"76","Rem. clinica","Trial 1",-0.909343899032907
+"77","Rem. clinica","Trial 1",0.0770630422909243
+"78","Rem. parcial","Trial 1",-0.416140428370991
+"79","Rem. parcial","Trial 1",0.0770630422909243
+"80","Rem. clinica","Trial 1",0.0770630422909243
+"81","Rem. clinica","Trial 1",-1.40254736969482
+"82","Control","Trial 1",-0.416140428370991
+"83","Control","Trial 1",-0.416140428370991
+"84","Rem. clinica","Trial 1",0.0770630422909243
+"85","Rem. parcial","Trial 1",-0.909343899032907
+"86","Rem. parcial","Trial 1",1.06346998361476
+"87","Rem. clinica","Trial 1",0.0770630422909243
+"88","Rem. clinica","Trial 1",0.0770630422909243
+"89","Rem. clinica","Trial 1",1.55667345427667
+"90","Rem. parcial","Trial 1",0.0770630422909243
+"91","Rem. parcial","Trial 1",-1.40254736969482
+"92","Control","Trial 1",1.06346998361476
+"93","Rem. parcial","Trial 1",-0.416140428370991
+"94","Rem. clinica","Trial 1",0.0770630422909243
+"95","Control","Trial 1",-0.909343899032907
+"96","Rem. parcial","Trial 1",0.0770630422909243
+"97","Rem. clinica","Trial 1",0.0770630422909243
+"98","Rem. clinica","Trial 1",1.06346998361476
+"99","Control","Trial 1",0.57026651295284
+"100","Rem. clinica","Trial 1",-1.89575084035674
+"101","Rem. clinica","Trial 1",-0.909343899032907
+"102","Control","Trial 1",-0.416140428370991
+"103","Control","Trial 1",0.0770630422909243
+"104","Rem. parcial","Trial 1",-0.909343899032907
+"105","Rem. clinica","Trial 1",0.57026651295284
+"106","Rem. clinica","Trial 1",0.57026651295284
+"107","Control","Trial 1",2.04987692493859
+"108","Rem. parcial","Trial 1",0.0770630422909243
+"109","Rem. parcial","Trial 1",0.57026651295284
+"110","Control","Trial 1",1.06346998361476
+"111","Rem. clinica","Trial 1",-0.416140428370991
+"112","Rem. clinica","Trial 1",-0.416140428370991
+"113","Control","Trial 1",1.55667345427667
+"114","Rem. clinica","Trial 1",-0.416140428370991
+"115","Rem. clinica","Trial 1",-0.909343899032907
+"116","Rem. clinica","Trial 1",-0.909343899032907
+"117","Rem. parcial","Trial 1",-0.416140428370991
+"118","Rem. parcial","Trial 1",-0.909343899032907
+"119","Control","Trial 1",0.0770630422909243
+"120","Rem. clinica","Trial 1",0.0770630422909243
+"121","Rem. parcial","Trial 1",-0.416140428370991
+"122","Rem. parcial","Trial 5",0.74761979723435
+"123","Rem. clinica","Trial 5",-0.534014140881678
+"124","Rem. clinica","Trial 5",0.74761979723435
+"125","Control","Trial 5",1.17483110993969
+"126","Control","Trial 5",0.74761979723435
+"127","Rem. clinica","Trial 5",0.74761979723435
+"128","Rem. parcial","Trial 5",-1.38843676629236
+"129","Control","Trial 5",1.17483110993969
+"130","Rem. parcial","Trial 5",-0.534014140881678
+"131","Rem. clinica","Trial 5",0.74761979723435
+"132","Rem. parcial","Trial 5",-1.38843676629236
+"133","Control","Trial 5",0.74761979723435
+"134","Rem. parcial","Trial 5",-0.106802828176336
+"135","Rem. clinica","Trial 5",1.17483110993969
+"136","Rem. clinica","Trial 5",-0.106802828176336
+"137","Rem. clinica","Trial 5",-0.106802828176336
+"138","Control","Trial 5",0.74761979723435
+"139","Rem. parcial","Trial 5",0.320408484529007
+"140","Rem. clinica","Trial 5",-0.534014140881678
+"141","Rem. clinica","Trial 5",0.74761979723435
+"142","Control","Trial 5",1.17483110993969
+"143","Control","Trial 5",0.320408484529007
+"144","Rem. clinica","Trial 5",-2.67007070440839
+"145","Rem. clinica","Trial 5",-0.534014140881678
+"146","Rem. clinica","Trial 5",-0.106802828176336
+"147","Rem. clinica","Trial 5",0.320408484529007
+"148","Control","Trial 5",0.74761979723435
+"149","Control","Trial 5",1.17483110993969
+"150","Rem. clinica","Trial 5",0.320408484529007
+"151","Control","Trial 5",-0.106802828176336
+"152","Rem. clinica","Trial 5",-0.106802828176336
+"153","Control","Trial 5",-0.961225453587021
+"154","Rem. clinica","Trial 5",-0.106802828176336
+"155","Control","Trial 5",1.17483110993969
+"156","Control","Trial 5",0.74761979723435
+"157","Control","Trial 5",0.74761979723435
+"158","Rem. clinica","Trial 5",-1.81564807899771
+"159","Control","Trial 5",-0.534014140881678
+"160","Rem. clinica","Trial 5",-0.534014140881678
+"161","Rem. clinica","Trial 5",0.74761979723435
+"162","Rem. clinica","Trial 5",-0.534014140881678
+"163","Rem. parcial","Trial 5",-1.38843676629236
+"164","Rem. parcial","Trial 5",-0.534014140881678
+"165","Rem. clinica","Trial 5",-1.38843676629236
+"166","Rem. clinica","Trial 5",0.74761979723435
+"167","Rem. clinica","Trial 5",-0.534014140881678
+"168","Rem. parcial","Trial 5",-0.106802828176336
+"169","Rem. clinica","Trial 5",-0.106802828176336
+"170","Rem. parcial","Trial 5",1.17483110993969
+"171","Rem. parcial","Trial 5",-1.38843676629236
+"172","Control","Trial 5",1.17483110993969
+"173","Rem. clinica","Trial 5",0.320408484529007
+"174","Rem. parcial","Trial 5",-3.09728201711373
+"175","Rem. clinica","Trial 5",0.320408484529007
+"176","Rem. clinica","Trial 5",1.17483110993969
+"177","Rem. clinica","Trial 5",-1.81564807899771
+"178","Control","Trial 5",0.320408484529007
+"179","Control","Trial 5",0.74761979723435
+"180","Rem. clinica","Trial 5",-0.534014140881678
+"181","Rem. clinica","Trial 5",-0.961225453587021
+"182","Rem. clinica","Trial 5",-1.81564807899771
+"183","Rem. parcial","Trial 5",-0.534014140881678
+"184","Rem. clinica","Trial 5",1.17483110993969
+"185","Rem. clinica","Trial 5",-0.106802828176336
+"186","Rem. clinica","Trial 5",-0.534014140881678
+"187","Rem. clinica","Trial 5",0.320408484529007
+"188","Control","Trial 5",1.17483110993969
+"189","Rem. parcial","Trial 5",1.17483110993969
+"190","Rem. parcial","Trial 5",0.320408484529007
+"191","Rem. parcial","Trial 5",1.17483110993969
+"192","Rem. clinica","Trial 5",0.74761979723435
+"193","Rem. parcial","Trial 5",0.320408484529007
+"194","Rem. parcial","Trial 5",-2.24285939170305
+"195","Control","Trial 5",1.17483110993969
+"196","Control","Trial 5",1.17483110993969
+"197","Rem. clinica","Trial 5",-0.106802828176336
+"198","Rem. clinica","Trial 5",-1.38843676629236
+"199","Rem. parcial","Trial 5",0.320408484529007
+"200","Rem. parcial","Trial 5",0.320408484529007
+"201","Rem. clinica","Trial 5",0.74761979723435
+"202","Rem. clinica","Trial 5",-1.38843676629236
+"203","Control","Trial 5",1.17483110993969
+"204","Control","Trial 5",-0.534014140881678
+"205","Rem. clinica","Trial 5",-0.534014140881678
+"206","Rem. parcial","Trial 5",-0.106802828176336
+"207","Rem. parcial","Trial 5",1.17483110993969
+"208","Rem. clinica","Trial 5",-0.106802828176336
+"209","Rem. clinica","Trial 5",-0.534014140881678
+"210","Rem. clinica","Trial 5",1.17483110993969
+"211","Rem. parcial","Trial 5",0.74761979723435
+"212","Rem. parcial","Trial 5",-2.67007070440839
+"213","Control","Trial 5",0.74761979723435
+"214","Rem. parcial","Trial 5",0.320408484529007
+"215","Rem. clinica","Trial 5",-0.534014140881678
+"216","Control","Trial 5",-0.106802828176336
+"217","Rem. parcial","Trial 5",-0.961225453587021
+"218","Rem. clinica","Trial 5",0.320408484529007
+"219","Rem. clinica","Trial 5",0.320408484529007
+"220","Control","Trial 5",1.17483110993969
+"221","Rem. clinica","Trial 5",-2.24285939170305
+"222","Rem. clinica","Trial 5",-0.106802828176336
+"223","Control","Trial 5",0.74761979723435
+"224","Control","Trial 5",0.74761979723435
+"225","Rem. parcial","Trial 5",-1.38843676629236
+"226","Rem. clinica","Trial 5",-0.534014140881678
+"227","Rem. clinica","Trial 5",-0.106802828176336
+"228","Control","Trial 5",1.17483110993969
+"229","Rem. parcial","Trial 5",-0.106802828176336
+"230","Rem. parcial","Trial 5",-0.534014140881678
+"231","Control","Trial 5",1.17483110993969
+"232","Rem. clinica","Trial 5",-0.106802828176336
+"233","Rem. clinica","Trial 5",-0.534014140881678
+"234","Control","Trial 5",0.320408484529007
+"235","Rem. clinica","Trial 5",-2.24285939170305
+"236","Rem. clinica","Trial 5",-0.961225453587021
+"237","Rem. clinica","Trial 5",-0.534014140881678
+"238","Rem. parcial","Trial 5",-0.106802828176336
+"239","Rem. parcial","Trial 5",-0.961225453587021
+"240","Control","Trial 5",1.17483110993969
+"241","Rem. clinica","Trial 5",-0.534014140881678
+"242","Rem. parcial","Trial 5",-1.38843676629236
+"243","Rem. parcial","Total",1.37206264749855
+"244","Rem. clinica","Total",-1.11492083663868
+"245","Rem. clinica","Total",0.45095765337365
+"246","Control","Total",1.37206264749855
+"247","Control","Total",0.35884715396116
+"248","Rem. clinica","Total",0.911510150436101
+"249","Rem. parcial","Total",-0.654368339576232
+"250","Control","Total",0.72728915161112
+"251","Rem. parcial","Total",-0.470147340751251
+"252","Rem. clinica","Total",1.00362064984859
+"253","Rem. parcial","Total",-1.02281033722619
+"254","Control","Total",0.0825156557236893
+"255","Rem. parcial","Total",0.174626155136179
+"256","Rem. clinica","Total",1.18784164867357
+"257","Rem. clinica","Total",0.63517865219863
+"258","Rem. clinica","Total",-0.378036841338761
+"259","Control","Total",0.81939965102361
+"260","Rem. parcial","Total",0.81939965102361
+"261","Rem. clinica","Total",-0.193815842513781
+"262","Rem. clinica","Total",0.81939965102361
+"263","Control","Total",1.74050464514851
+"264","Control","Total",0.45095765337365
+"265","Rem. clinica","Total",-2.22024682958856
+"266","Rem. clinica","Total",-0.562257840163742
+"267","Rem. clinica","Total",-0.654368339576232
+"268","Rem. clinica","Total",0.26673665454867
+"269","Control","Total",0.26673665454867
+"270","Control","Total",1.92472564397349
+"271","Rem. clinica","Total",0.0825156557236893
+"272","Control","Total",0.26673665454867
+"273","Rem. clinica","Total",-0.378036841338761
+"274","Control","Total",0.54306815278614
+"275","Rem. clinica","Total",0.45095765337365
+"276","Control","Total",1.00362064984859
+"277","Control","Total",1.832615144561
+"278","Control","Total",0.26673665454867
+"279","Rem. clinica","Total",-1.48336283428864
+"280","Control","Total",-0.470147340751251
+"281","Rem. clinica","Total",-0.378036841338761
+"282","Rem. clinica","Total",0.0825156557236893
+"283","Rem. clinica","Total",-0.193815842513781
+"284","Rem. parcial","Total",-1.94391533135109
+"285","Rem. parcial","Total",-0.930699837813702
+"286","Rem. clinica","Total",-1.20703133605117
+"287","Rem. clinica","Total",0.45095765337365
+"288","Rem. clinica","Total",-1.20703133605117
+"289","Rem. parcial","Total",-0.285926341926271
+"290","Rem. clinica","Total",0.54306815278614
+"291","Rem. parcial","Total",0.911510150436101
+"292","Rem. parcial","Total",-0.562257840163742
+"293","Control","Total",0.81939965102361
+"294","Rem. clinica","Total",1.27995214808606
+"295","Rem. parcial","Total",-3.23346232312596
+"296","Rem. clinica","Total",0.35884715396116
+"297","Rem. clinica","Total",0.63517865219863
+"298","Rem. clinica","Total",-1.57547333370113
+"299","Control","Total",-0.101705343101291
+"300","Control","Total",1.55628364632353
+"301","Rem. clinica","Total",-0.746478838988722
+"302","Rem. clinica","Total",-1.20703133605117
+"303","Rem. clinica","Total",-1.94391533135109
+"304","Rem. parcial","Total",-0.746478838988722
+"305","Rem. clinica","Total",1.46417314691104
+"306","Rem. clinica","Total",0.45095765337365
+"307","Rem. clinica","Total",-0.930699837813702
+"308","Rem. clinica","Total",-0.193815842513781
+"309","Control","Total",1.55628364632353
+"310","Rem. parcial","Total",1.00362064984859
+"311","Rem. parcial","Total",-0.470147340751251
+"312","Rem. parcial","Total",0.81939965102361
+"313","Rem. clinica","Total",-0.00959484368880084
+"314","Rem. parcial","Total",-0.00959484368880084
+"315","Rem. parcial","Total",-1.8518048319386
+"316","Control","Total",0.72728915161112
+"317","Control","Total",0.72728915161112
+"318","Rem. clinica","Total",-0.654368339576232
+"319","Rem. clinica","Total",-0.930699837813702
+"320","Rem. parcial","Total",-0.470147340751251
+"321","Rem. parcial","Total",-0.00959484368880084
+"322","Rem. clinica","Total",0.72728915161112
+"323","Rem. clinica","Total",-1.48336283428864
+"324","Control","Total",0.54306815278614
+"325","Control","Total",-0.00959484368880084
+"326","Rem. clinica","Total",-0.378036841338761
+"327","Rem. parcial","Total",-0.930699837813702
+"328","Rem. parcial","Total",1.00362064984859
+"329","Rem. clinica","Total",-0.285926341926271
+"330","Rem. clinica","Total",-0.285926341926271
+"331","Rem. clinica","Total",1.27995214808606
+"332","Rem. parcial","Total",0.54306815278614
+"333","Rem. parcial","Total",-2.40446782841354
+"334","Control","Total",1.00362064984859
+"335","Rem. parcial","Total",0.0825156557236893
+"336","Rem. clinica","Total",-0.193815842513781
+"337","Control","Total",-0.285926341926271
+"338","Rem. parcial","Total",-0.746478838988722
+"339","Rem. clinica","Total",0.63517865219863
+"340","Rem. clinica","Total",1.18784164867357
+"341","Control","Total",0.54306815278614
+"342","Rem. clinica","Total",-2.49657832782603
+"343","Rem. clinica","Total",-0.562257840163742
+"344","Control","Total",-0.193815842513781
+"345","Control","Total",0.26673665454867
+"346","Rem. parcial","Total",-0.930699837813702
+"347","Rem. clinica","Total",0.174626155136179
+"348","Rem. clinica","Total",0.45095765337365
+"349","Control","Total",1.55628364632353
+"350","Rem. parcial","Total",0.26673665454867
+"351","Rem. parcial","Total",0.0825156557236893
+"352","Control","Total",1.00362064984859
+"353","Rem. clinica","Total",-0.101705343101291
+"354","Rem. clinica","Total",-0.378036841338761
+"355","Control","Total",0.81939965102361
+"356","Rem. clinica","Total",-1.8518048319386
+"357","Rem. clinica","Total",-1.11492083663868
+"358","Rem. clinica","Total",-0.654368339576232
+"359","Rem. parcial","Total",-0.193815842513781
+"360","Rem. parcial","Total",-1.11492083663868
+"361","Control","Total",0.72728915161112
+"362","Rem. clinica","Total",-0.746478838988722
+"363","Rem. parcial","Total",-1.02281033722619
+"364","Rem. parcial","Delayed",1.29412271489725
+"365","Rem. clinica","Delayed",-1.01877745640848
+"366","Rem. clinica","Delayed",0.963708404710721
+"367","Control","Delayed",1.29412271489725
+"368","Control","Delayed",0.302879784337655
+"369","Rem. clinica","Delayed",0.633294094524188
+"370","Rem. parcial","Delayed",-0.688363146221944
+"371","Control","Delayed",1.29412271489725
+"372","Rem. parcial","Delayed",-0.688363146221944
+"373","Rem. clinica","Delayed",0.963708404710721
+"374","Rem. parcial","Delayed",-1.67960607678154
+"375","Control","Delayed",0.302879784337655
+"376","Rem. parcial","Delayed",-0.357948836035411
+"377","Rem. clinica","Delayed",0.302879784337655
+"378","Rem. clinica","Delayed",0.302879784337655
+"379","Rem. clinica","Delayed",-1.67960607678154
+"380","Control","Delayed",0.633294094524188
+"381","Rem. parcial","Delayed",0.633294094524188
+"382","Rem. clinica","Delayed",-1.01877745640848
+"383","Rem. clinica","Delayed",-0.027534525848878
+"384","Control","Delayed",0.633294094524188
+"385","Control","Delayed",0.302879784337655
+"386","Rem. clinica","Delayed",-1.67960607678154
+"387","Rem. clinica","Delayed",-0.027534525848878
+"388","Rem. clinica","Delayed",-1.01877745640848
+"389","Rem. clinica","Delayed",0.633294094524188
+"390","Control","Delayed",1.29412271489725
+"391","Control","Delayed",1.29412271489725
+"392","Rem. clinica","Delayed",0.633294094524188
+"393","Control","Delayed",-0.027534525848878
+"394","Rem. clinica","Delayed",-0.357948836035411
+"395","Control","Delayed",0.302879784337655
+"396","Rem. clinica","Delayed",0.633294094524188
+"397","Control","Delayed",1.29412271489725
+"398","Control","Delayed",1.29412271489725
+"399","Control","Delayed",0.633294094524188
+"400","Rem. clinica","Delayed",-1.34919176659501
+"401","Control","Delayed",0.302879784337655
+"402","Rem. clinica","Delayed",-0.027534525848878
+"403","Rem. clinica","Delayed",0.633294094524188
+"404","Rem. clinica","Delayed",-0.688363146221944
+"405","Rem. parcial","Delayed",-1.34919176659501
+"406","Rem. parcial","Delayed",-0.357948836035411
+"407","Rem. clinica","Delayed",-1.34919176659501
+"408","Rem. clinica","Delayed",0.963708404710721
+"409","Rem. clinica","Delayed",-0.688363146221944
+"410","Rem. parcial","Delayed",-0.357948836035411
+"411","Rem. clinica","Delayed",0.633294094524188
+"412","Rem. parcial","Delayed",1.29412271489725
+"413","Rem. parcial","Delayed",-0.357948836035411
+"414","Control","Delayed",1.29412271489725
+"415","Rem. clinica","Delayed",0.963708404710721
+"416","Rem. parcial","Delayed",-3.99250624808727
+"417","Rem. clinica","Delayed",0.633294094524188
+"418","Rem. clinica","Delayed",0.302879784337655
+"419","Rem. clinica","Delayed",-1.34919176659501
+"420","Control","Delayed",-0.357948836035411
+"421","Control","Delayed",0.963708404710721
+"422","Rem. clinica","Delayed",-0.688363146221944
+"423","Rem. clinica","Delayed",-0.688363146221944
+"424","Rem. clinica","Delayed",-2.01002038696808
+"425","Rem. parcial","Delayed",-1.01877745640848
+"426","Rem. clinica","Delayed",0.963708404710721
+"427","Rem. clinica","Delayed",-0.688363146221944
+"428","Rem. clinica","Delayed",-1.01877745640848
+"429","Rem. clinica","Delayed",-0.357948836035411
+"430","Control","Delayed",1.29412271489725
+"431","Rem. parcial","Delayed",0.633294094524188
+"432","Rem. parcial","Delayed",0.302879784337655
+"433","Rem. parcial","Delayed",1.29412271489725
+"434","Rem. clinica","Delayed",0.302879784337655
+"435","Rem. parcial","Delayed",-0.357948836035411
+"436","Rem. parcial","Delayed",-1.34919176659501
+"437","Control","Delayed",1.29412271489725
+"438","Control","Delayed",1.29412271489725
+"439","Rem. clinica","Delayed",-1.01877745640848
+"440","Rem. clinica","Delayed",-1.01877745640848
+"441","Rem. parcial","Delayed",-0.027534525848878
+"442","Rem. parcial","Delayed",-0.027534525848878
+"443","Rem. clinica","Delayed",0.963708404710721
+"444","Rem. clinica","Delayed",-1.01877745640848
+"445","Control","Delayed",0.963708404710721
+"446","Control","Delayed",0.302879784337655
+"447","Rem. clinica","Delayed",-0.027534525848878
+"448","Rem. parcial","Delayed",-0.688363146221944
+"449","Rem. parcial","Delayed",0.302879784337655
+"450","Rem. clinica","Delayed",0.302879784337655
+"451","Rem. clinica","Delayed",-0.357948836035411
+"452","Rem. clinica","Delayed",0.963708404710721
+"453","Rem. parcial","Delayed",0.633294094524188
+"454","Rem. parcial","Delayed",-2.01002038696808
+"455","Control","Delayed",1.29412271489725
+"456","Rem. parcial","Delayed",-0.027534525848878
+"457","Rem. clinica","Delayed",-0.357948836035411
+"458","Control","Delayed",-0.027534525848878
+"459","Rem. parcial","Delayed",-1.67960607678154
+"460","Rem. clinica","Delayed",0.633294094524188
+"461","Rem. clinica","Delayed",0.302879784337655
+"462","Control","Delayed",0.633294094524188
+"463","Rem. clinica","Delayed",-2.01002038696808
+"464","Rem. clinica","Delayed",0.302879784337655
+"465","Control","Delayed",1.29412271489725
+"466","Control","Delayed",0.963708404710721
+"467","Rem. parcial","Delayed",-1.67960607678154
+"468","Rem. clinica","Delayed",-0.688363146221944
+"469","Rem. clinica","Delayed",-0.027534525848878
+"470","Control","Delayed",1.29412271489725
+"471","Rem. parcial","Delayed",-0.027534525848878
+"472","Rem. parcial","Delayed",-0.027534525848878
+"473","Control","Delayed",0.963708404710721
+"474","Rem. clinica","Delayed",-0.027534525848878
+"475","Rem. clinica","Delayed",-0.027534525848878
+"476","Control","Delayed",1.29412271489725
+"477","Rem. clinica","Delayed",-3.33167762771421
+"478","Rem. clinica","Delayed",-0.688363146221944
+"479","Rem. clinica","Delayed",-0.357948836035411
+"480","Rem. parcial","Delayed",-0.688363146221944
+"481","Rem. parcial","Delayed",-0.688363146221944
+"482","Control","Delayed",1.29412271489725
+"483","Rem. clinica","Delayed",-1.01877745640848
+"484","Rem. parcial","Delayed",-1.01877745640848
